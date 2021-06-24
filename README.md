@@ -28,8 +28,4 @@ NOTE:
 3.All of the code is readable and can be CHANGED according to the need.
 4.INTERFACE is colored for better view.
 
-Prepared by: THE MIND HACKERS
-1.Muhammad Sami Shafique
-2.Faiq Hassan
-3.Abdullah Ahmad
 
